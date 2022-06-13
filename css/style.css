@@ -73,8 +73,8 @@ a {
 .game__items::before {
   content: "";
   pointer-events: all;
-  width: 33.333vw;
-  height: 33.333vh;
+  width: 20vw;
+  height: 30vh;
   position: absolute;
   z-index: 1;
   display: inline-block;
